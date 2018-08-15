@@ -10,6 +10,7 @@ Department of Database Systems and Information Management
 
 ###### Supervised by:
 Prof. Dr. Volker Markl
+
 Alexander Renz-Wieland
 
 
